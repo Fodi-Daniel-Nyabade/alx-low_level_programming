@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - a program that print a line of statement.
+ * main - Entry point 
  * Return 0 (success)
  */
 int main(void)
