@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - prints all strings from 0 to 9
- * Retur: 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
