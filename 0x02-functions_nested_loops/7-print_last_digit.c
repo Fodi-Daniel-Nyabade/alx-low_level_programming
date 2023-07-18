@@ -10,7 +10,7 @@ int print_last_digit(int c)
 
 	if (ld < 0)
 	{
-		_putchar(-ld + 48)
+		_putchar(-ld + 48);
 		return (-ld);
 	}
 	else
