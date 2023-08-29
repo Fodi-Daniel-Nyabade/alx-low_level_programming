@@ -4,7 +4,6 @@
 
 /**
  * print_listint - prints all elements of a listint_t list
- * @listint_t: a parameter passed to the function
  * @h: pointer to the head node
  * Return: number of node (success)
  */
