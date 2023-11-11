@@ -2,7 +2,7 @@
 
 /*
  * dlistint_len - returns the number of elements in a linked list
- * @h: a pointer to the head of the node
+ * @*h: a pointer to the head of the node
  * Return: the number of nodes
  */
 
